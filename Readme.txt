@@ -4,6 +4,9 @@
 4. django-admin startproject core .             => instalamos carpeta core del proyecto principal
 5. git checkout -b staging                      => creamos nueva rama
 6. py manage.py migrate                         => creamos la base de datos en sqlite
+7. sqlite                                       => instalar sqlite
+8. npm run start                                => inicia proyecto en React
+9. py manage.py runserver
 
 
 
